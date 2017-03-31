@@ -1,0 +1,41 @@
+.hobby .header {
+  width: 100%;
+  height: 44px;
+  background: #fc6177;
+  position: absolute;
+  left: 0;
+  top: 0; }
+  .hobby .header p {
+    line-height: 44px;
+    text-align: center;
+    font-size: 18px; }
+    .hobby .header p i {
+      float: left;
+      padding-left: 8px;
+      color: #fff; }
+    .hobby .header p span {
+      color: #fff; }
+.hobby .section {
+  margin-top: 44px; }
+  .hobby .section ul {
+    width: 100%;
+    margin-left: 3%;
+    display: -webkit-flex; }
+    .hobby .section ul li:not(:nth-child(2)) {
+      display: -webkit-flex;
+      -webkit-flex-direction: column;
+      flex: 1; }
+      .hobby .section ul li:not(:nth-child(2)) img {
+        width: 100%;
+        height: 80%;
+        display: block;
+        flex: 1; }
+      .hobby .section ul li:not(:nth-child(2)) b {
+        display: block;
+        height: 40px;
+        line-height: 40px;
+        text-align: center; }
+    .hobby .section ul li:nth-child(2) {
+      width: 10px; }
+
+/*# sourceMappingURL=hobby.css.map */

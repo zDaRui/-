@@ -1,0 +1,131 @@
+.home {
+  width: 100%;
+  height: 100%; }
+  .home .header {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 44px;
+    background: #fc6177;
+    color: #fff;
+    line-height: 44px;
+    font-size: 18px;
+    z-index: 999; }
+    .home .header span {
+      width: 100%;
+      display: inline-block;
+      text-align: center; }
+    .home .header .search {
+      position: fixed;
+      left: 5px;
+      font-size: 22px; }
+    .home .header .more {
+      position: absolute;
+      top: 0;
+      right: 5px;
+      font-size: 22px;
+      color: #fff; }
+  .home .banner {
+    margin-top: 44px;
+    margin-bottom: 44px; }
+    .home .banner .nav {
+      background: #fff;
+      z-index: 999;
+      display: flex; }
+      .home .banner .nav li {
+        flex: 1;
+        text-align: center;
+        line-height: 34px;
+        font-size: 14px;
+        color: #606060;
+        border-bottom: 2px solid #CCCCCC; }
+      .home .banner .nav .bg {
+        color: #fc6177;
+        border-bottom: 2px solid #fc6177; }
+    .home .banner .swiper-Two {
+      width: 100%;
+      height: 100%; }
+      .home .banner .swiper-Two .scroll {
+        width: 100%;
+        height: 100%; }
+        .home .banner .swiper-Two .scroll .content {
+          width: 100%;
+          height: 184px; }
+          .home .banner .swiper-Two .scroll .content .swiper_ban img {
+            width: 100%;
+            height: 184px; }
+          .home .banner .swiper-Two .scroll .content .type {
+            width: 100%;
+            height: 95px;
+            display: flex;
+            background: #fff;
+            border-top: 10px solid #f7f7f7;
+            border-bottom: 10px solid #f7f7f7; }
+            .home .banner .swiper-Two .scroll .content .type dl {
+              flex: 1;
+              text-align: center;
+              margin-top: 10px; }
+              .home .banner .swiper-Two .scroll .content .type dl dd {
+                font-size: 12px;
+                color: #333; }
+              .home .banner .swiper-Two .scroll .content .type dl dt {
+                width: 45px;
+                height: 45px;
+                border-radius: 50%;
+                margin: 0 auto; }
+              .home .banner .swiper-Two .scroll .content .type dl:nth-child(1) dt {
+                background: #f66467; }
+                .home .banner .swiper-Two .scroll .content .type dl:nth-child(1) dt i {
+                  font-size: 24px;
+                  color: #fffadc; }
+              .home .banner .swiper-Two .scroll .content .type dl:nth-child(2) dt {
+                background: #ffb45e; }
+                .home .banner .swiper-Two .scroll .content .type dl:nth-child(2) dt i {
+                  font-size: 26px;
+                  color: #fff; }
+              .home .banner .swiper-Two .scroll .content .type dl:nth-child(3) dt {
+                background: #f394ca; }
+                .home .banner .swiper-Two .scroll .content .type dl:nth-child(3) dt i {
+                  font-size: 26px;
+                  color: #fff; }
+              .home .banner .swiper-Two .scroll .content .type dl:nth-child(4) dt {
+                background: #63d5cb; }
+                .home .banner .swiper-Two .scroll .content .type dl:nth-child(4) dt i {
+                  font-size: 26px;
+                  color: #fffadc; }
+          .home .banner .swiper-Two .scroll .content .flower_list {
+            color: #f66467; }
+            .home .banner .swiper-Two .scroll .content .flower_list p {
+              width: 100%;
+              height: 44px;
+              background: #fff;
+              line-height: 44px;
+              position: relative; }
+              .home .banner .swiper-Two .scroll .content .flower_list p span {
+                width: 22px;
+                height: 22px;
+                border-radius: 5px;
+                background: #f66467;
+                color: #fff;
+                position: absolute;
+                left: 5px;
+                top: 10px;
+                line-height: 22px;
+                text-align: center; }
+              .home .banner .swiper-Two .scroll .content .flower_list p strong {
+                padding-left: 34px; }
+              .home .banner .swiper-Two .scroll .content .flower_list p small {
+                font-size: 12px;
+                float: right;
+                padding-right: 10px; }
+            .home .banner .swiper-Two .scroll .content .flower_list dl dt img {
+              width: 100%;
+              height: 100%; }
+            .home .banner .swiper-Two .scroll .content .flower_list dl dd h4 {
+              line-height: 30px;
+              height: 30px;
+              color: #000;
+              text-align: center; }
+
+/*# sourceMappingURL=home.css.map */

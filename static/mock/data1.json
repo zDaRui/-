@@ -1,0 +1,93 @@
+{
+  "scene": {
+    "title": "今日上新",
+    "info": [
+      {
+        "id": 1,
+        "img": "/static/images/banner.png"
+      },
+      {
+        "id": 2,
+        "img": "/static/images/banner_02.png"
+      },
+      {
+        "id": 3,
+        "img": "/static/images/type_02.jpg"
+      }
+    ],
+    "list":[
+      {
+        "id": 1,
+        "img": "/static/images/banner_02.png",
+        "text":"小楼一夜听春雨,深巷明朝卖杏花"
+      },
+      {
+        "id": 2,
+        "img": "/static/images/banner_03.jpg",
+        "text":"间关莺语花底滑"
+      },
+      {
+        "id": 3,
+        "img": "/static/images/banner_04.jpg",
+        "text":"云鬓花颜金步摇"
+      },
+      {
+        "id": 4,
+        "img": "/static/images/banner_03.jpg",
+        "text":"花好月圆夜的玫瑰花香"
+      }
+    ]
+  },
+  "life": {
+    "title": "鲜花预定",
+    "info": [
+      {
+        "img": "/static/images/banner.png",
+        "text": "始终难免长相忆"
+      },
+      {
+        "img": "/static/images/banner.png",
+        "text": "始终难免长相忆"
+      }
+    ]
+  },
+  "Beauty": {
+    "title": "浪漫组合",
+    "info": [
+      {
+        "img": "/static/images/banner.png",
+        "text": "怎忍相思，还寝梦中寄"
+      },
+      {
+        "img": "/static/images/banner.png",
+        "text": "怎忍相思，还寝梦中寄"
+      }
+    ]
+  },
+  "Basket": {
+    "title": "果篮",
+    "info": [
+      {
+        "img": "/static/images/banner.png",
+        "text": "怎忍相思，还寝梦中寄"
+      },
+      {
+        "img": "/static/images/banner.png",
+        "text": "怎忍相思，还寝梦中寄"
+      }
+    ]
+  },
+  "Toys": {
+    "title": "毛绒玩具",
+    "info": [
+      {
+        "img": "/static/images/banner.png",
+        "text": "怎忍相思，还寝梦中寄"
+      },
+      {
+        "img": "/static/images/banner.png",
+        "text": "怎忍相思，还寝梦中寄"
+      }
+    ]
+  }
+}

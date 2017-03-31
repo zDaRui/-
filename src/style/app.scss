@@ -1,0 +1,19 @@
+/*
+$base-bg:#0f0;
+body{
+	background:$base-bg;
+}*/
+@import "./lib/core/reset.scss";
+@import "./usage/common/common.css";
+@import "./lib/swiper.min.css";
+@import "./usage/module/entry.css";
+@import "./usage/module/index.css";
+@import "./usage/module/home.css";
+@import "./usage/module/hobby.css";
+@import "./usage/module/user.css";
+@import "./usage/module/groom.css";
+@import "./usage/module/heart.css";
+@import "./usage/module/all.css";
+html{
+  font-size: 100px;
+}

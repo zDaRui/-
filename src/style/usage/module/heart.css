@@ -1,0 +1,86 @@
+.heart .header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 44px;
+  background: #fc6177;
+  color: #fff;
+  line-height: 44px;
+  font-size: 18px;
+  z-index: 999; }
+  .heart .header span {
+    width: 100%;
+    display: inline-block;
+    text-align: center; }
+  .heart .header .search {
+    position: fixed;
+    left: 5px;
+    font-size: 22px; }
+  .heart .header .more {
+    position: absolute;
+    top: 0;
+    right: 5px;
+    font-size: 22px; }
+.heart .banner {
+  margin-top: 44px;
+  margin-bottom: 44px; }
+  .heart .banner .nav {
+    background: #fff;
+    z-index: 999;
+    display: flex; }
+    .heart .banner .nav li {
+      flex: 1;
+      text-align: center;
+      line-height: 34px;
+      font-size: 14px;
+      color: #8a8a8a;
+      border-bottom: 2px solid #CCCCCC; }
+    .heart .banner .nav .bg {
+      color: #fc6177;
+      border-bottom: 2px solid #fc6177; }
+  .heart .banner .swiper-Two {
+    width: 100%;
+    height: 100%; }
+    .heart .banner .swiper-Two .scroll {
+      width: 100%;
+      height: 100%; }
+    .heart .banner .swiper-Two .content {
+      width: 100%;
+      height: 228px;
+      background: #fff;
+      border-bottom: 10px solid #f7f7f7; }
+      .heart .banner .swiper-Two .content .info {
+        width: 100%;
+        height: 182px; }
+      .heart .banner .swiper-Two .content p {
+        width: 100%;
+        height: 46px;
+        line-height: 46px;
+        text-align: center; }
+        .heart .banner .swiper-Two .content p img {
+          height: 14px;
+          width: 14px; }
+    .heart .banner .swiper-Two .list {
+      width: 100%;
+      height: auto;
+      background: #fff; }
+      .heart .banner .swiper-Two .list dl {
+        width: 100%;
+        height: 82px;
+        border-bottom: 1px solid #e7e7e7; }
+        .heart .banner .swiper-Two .list dl dt {
+          float: left;
+          padding-left: 2%;
+          padding-right: 2%; }
+          .heart .banner .swiper-Two .list dl dt img {
+            padding-top: 10%;
+            width: 84px;
+            height: 64px; }
+        .heart .banner .swiper-Two .list dl dd {
+          padding-top: 2%;
+          color: #a7a7a7; }
+          .heart .banner .swiper-Two .list dl dd h4 {
+            color: #333333; }
+
+/*# sourceMappingURL=heart.css.map */

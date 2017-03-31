@@ -1,0 +1,95 @@
+{
+  "all":{
+    "title":["今日推荐","单品鲜花","水仙花语","玫瑰花语","牡丹花语","非洲菊花","初恋心情","包护套餐","氧化套餐","精品选购"]
+  },
+  "today": {
+    "title": "今日推荐",
+    "info": [
+      {
+        "id": 1,
+        "img": "/static/images/all_03.jpg",
+        "text": "帝王花"
+      },
+      {
+        "id": 2,
+        "img": "/static/images/all_06.jpg",
+        "text": "鸡冠花"
+      },
+      {
+        "id": 3,
+        "img": "/static/images/all_10.jpg",
+        "text": "非洲菊"
+      },
+      {
+        "id": 4,
+        "img": "/static/images/all_11.jpg",
+        "text": "杜鹃花"
+      },
+      {
+        "id": 5,
+        "img": "/static/images/all_14.jpg",
+        "text": "康乃馨"
+      },
+      {
+        "id": 6,
+        "img": "/static/images/all_16.jpg",
+        "text": "百合花 "
+      },
+      {
+        "id": 7,
+        "img": "/static/images/all_21.jpg",
+        "text": "养兰花"
+      },
+      {
+        "id": 8,
+        "img": "/static/images/all_24.jpg",
+        "text": "金鱼草"
+      },
+      {
+        "id": 9,
+        "img": "/static/images/all_28.jpg",
+        "text": "大丽花"
+      },
+      {
+        "id": 10,
+        "img": "/static/images/all_30.jpg",
+        "text": "马蹄莲          "
+      }
+    ]
+  },
+  "every":{
+    "title": "单品鲜花",
+    "info": [
+      {
+        "id": 1,
+        "img": "/static/images/shop_car_07.jpg",
+        "text": "满满爱意都是送给了你的"
+      },
+      {
+        "id": 2,
+        "img": "/static/images/share_01.jpg",
+        "text": "桔梗花的花语是——真诚不变的爱"
+      },
+      {
+        "id": 3,
+        "img": "/static/images/share_02.jpg",
+        "text": "白玫瑰的花语是——我足以与你相配"
+      },
+      {
+        "id": 4,
+        "img": "/static/images/share_03.jpg",
+        "text": "熏衣草的花语是——等待爱情"
+      },
+      {
+        "id": 5,
+        "img": "/static/images/share_04.jpg",
+        "text": "红色的风信子的花语是——让人感动的爱"
+      },
+      {
+        "id": 6,
+        "img": "/static/images/share_06.jpg",
+        "text": "时钟花的花语是——爱在你身边 "
+      }
+    ]
+  }
+}

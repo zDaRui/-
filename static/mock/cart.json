@@ -1,0 +1,30 @@
+{
+  "status": 0,
+  "message": "success",
+  "result": [
+    {
+      "name": "<<白色恋人>>",
+      "gifts": "数量：",
+      "price": 132,
+      "count": 2,
+      "amount": 19,
+      "imgPic": "/static/images/shop_car_03.jpg"
+    },
+    {
+      "name": "粉红佳人",
+      "gifts": "数量：",
+      "price": 118,
+      "count": 1,
+      "amount": 20,
+      "imgPic": "/static/images/sub_02.jpg"
+    },
+    {
+      "name": "一心一意",
+      "gifts": "数量：",
+      "price": 129,
+      "count": 1,
+      "amount": 20,
+      "imgPic": "/static/images/shop_car_07.jpg"
+    }
+  ]
+}

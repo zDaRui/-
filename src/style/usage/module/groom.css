@@ -1,0 +1,86 @@
+.groom {
+  width: 100%;
+  height: 100%; }
+  .groom .header {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 44px;
+    background: #fc6177;
+    color: #fff;
+    line-height: 44px;
+    font-size: 18px;
+    z-index: 999; }
+    .groom .header span {
+      width: 100%;
+      display: inline-block;
+      text-align: center; }
+    .groom .header .search {
+      position: fixed;
+      left: 5px;
+      font-size: 22px; }
+    .groom .header .more {
+      position: absolute;
+      top: 0;
+      right: 5px;
+      font-size: 22px; }
+  .groom .banner {
+    margin-top: 44px;
+    margin-bottom: 44px; }
+    .groom .banner .nav {
+      background: #fff;
+      z-index: 999;
+      display: flex; }
+      .groom .banner .nav li {
+        flex: 1;
+        text-align: center;
+        line-height: 34px;
+        font-size: 14px;
+        color: #606060;
+        border-bottom: 2px solid #CCCCCC; }
+      .groom .banner .nav .bg {
+        color: #fc6177;
+        border-bottom: 2px solid #fc6177; }
+    .groom .banner .title {
+      width: 100%;
+      height: 46px;
+      line-height: 46px;
+      text-align: center; }
+      .groom .banner .title img {
+        height: 14px;
+        width: 14px; }
+    .groom .banner .swiper-Two {
+      width: 100%;
+      height: 100%; }
+      .groom .banner .swiper-Two .scroll {
+        width: 100%;
+        height: 100%; }
+        .groom .banner .swiper-Two .scroll .content {
+          width: 100%;
+          height: 184px; }
+          .groom .banner .swiper-Two .scroll .content .swiper_ban img {
+            width: 100%;
+            height: 184px; }
+          .groom .banner .swiper-Two .scroll .content .flower_list {
+            color: #f66467; }
+            .groom .banner .swiper-Two .scroll .content .flower_list p {
+              width: 100%;
+              height: 44px;
+              background: #fff;
+              line-height: 44px;
+              position: relative; }
+              .groom .banner .swiper-Two .scroll .content .flower_list p small {
+                font-size: 12px;
+                float: right;
+                padding-right: 10px; }
+            .groom .banner .swiper-Two .scroll .content .flower_list dl dt img {
+              width: 100%;
+              height: 100%; }
+            .groom .banner .swiper-Two .scroll .content .flower_list dl dd h4 {
+              line-height: 30px;
+              height: 30px;
+              color: #000;
+              text-align: center; }
+
+/*# sourceMappingURL=groom.css.map */

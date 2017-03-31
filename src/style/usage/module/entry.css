@@ -1,0 +1,92 @@
+.entry, .reg {
+  width: 100%;
+  height: 100%;
+  background: url("../../../../static/images/login_bg_01.jpg") no-repeat;
+  background-size: 100% 35%; }
+  .entry .header, .reg .header {
+    width: 100%;
+    height: 44px;
+    font-size: 18px; }
+    .entry .header ul, .reg .header ul {
+      display: flex; }
+      .entry .header ul li, .reg .header ul li {
+        flex: 1;
+        text-align: center;
+        line-height: 44px;
+        color: #151515; }
+    .entry .header .left i, .reg .header .left i {
+      float: left;
+      padding-left: 5px;
+      color: #151515; }
+    .entry .header .right, .reg .header .right {
+      float: right; }
+    .entry .header .regs, .reg .header .regs {
+      color: #151515; }
+  .entry .login, .reg .login {
+    width: 100%;
+    overflow: auto; }
+    .entry .login ul, .reg .login ul {
+      width: 90%;
+      height: 35%;
+      background: #fff;
+      position: fixed;
+      top: 25%;
+      left: 5%;
+      border-radius: 8px;
+      box-shadow: 0 0 60px #e69e6e;
+      padding-top: 10px; }
+      .entry .login ul li, .reg .login ul li {
+        width: 90%;
+        height: 44px;
+        margin-left: 5%;
+        line-height: 44px; }
+        .entry .login ul li i, .reg .login ul li i {
+          color: #c4c4c4;
+          font-size: 18px; }
+        .entry .login ul li .cancel, .reg .login ul li .cancel {
+          float: right;
+          padding-right: 5px; }
+        .entry .login ul li input, .reg .login ul li input {
+          border: 0;
+          outline: 0;
+          padding-left: 5px; }
+  .entry .login_btn, .reg .login_btn {
+    background: #fd6177;
+    border-radius: 30px;
+    color: #fff; }
+  .entry .txt, .reg .txt {
+    padding-top: 2%;
+    border-bottom: 1px solid #8a8a8a; }
+  .entry .forget, .reg .forget {
+    color: #fd5d74; }
+  .entry .center, .reg .center {
+    margin-top: 3%;
+    text-align: center;
+    line-height: 44px; }
+  .entry .footer, .reg .footer {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0; }
+    .entry .footer ul, .reg .footer ul {
+      width: 100%;
+      text-align: center;
+      padding-top: 30%; }
+      .entry .footer ul li, .reg .footer ul li {
+        height: 44px;
+        line-height: 44px;
+        color: #a5a5a5; }
+  .entry .third_login, .reg .third_login {
+    padding-bottom: 30%; }
+    .entry .third_login i, .reg .third_login i {
+      font-size: 34px;
+      padding-left: 8%;
+      padding-right: 8%; }
+  .entry .qq, .reg .qq {
+    color: #eb4f38; }
+  .entry .wx, .reg .wx {
+    color: #56abe4; }
+  .entry .wb, .reg .wb {
+    color: #f6e8ac; }
+
+/*# sourceMappingURL=entry.css.map */

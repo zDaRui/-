@@ -1,0 +1,26 @@
+.index {
+  width: 100%;
+  height: 100%; }
+  .index .footer {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 999;
+    background-color: #fff;
+    display: flex; }
+    .index .footer dl {
+      flex: 1;
+      text-align: center; }
+      .index .footer dl dd {
+        font-size: 12px;
+        color: #333; }
+      .index .footer dl dt i {
+        font-size: 18px;
+        color: #333; }
+    .index .footer .active dd {
+      color: #fc6177; }
+    .index .footer .active dt i {
+      color: #fc6177; }
+
+/*# sourceMappingURL=index.css.map */
